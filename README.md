@@ -36,6 +36,9 @@ This repository is licensed under the MIT License. See the LICENSE file for more
 
 **Let's learn and grow together!** 😃🚀
 
+---
+---
+---
 
 🇧🇷 # Repositório do Curso de Java Avançado - Nélio Alves
 
@@ -66,10 +69,6 @@ Aqui você encontrará:
 ## Contribuição
 
 Se você deseja contribuir com melhorias neste repositório, fique à vontade para fazer um fork e enviar pull requests. Toda ajuda é bem-vinda! 🌟
-
-## Licença
-
-Este repositório está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 ---
 
