@@ -28,10 +28,6 @@ Here you will find:
 
 If you would like to contribute to improving this repository, feel free to fork it and submit pull requests. Any help is welcome! 🌟
 
-## License
-
-This repository is licensed under the MIT License. See the LICENSE file for more details.
-
 ---
 
 **Let's learn and grow together!** 😃🚀
